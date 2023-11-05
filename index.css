@@ -37,7 +37,7 @@
 	border-top-right-radius:76px;
 	border-bottom-left-radius:76px;
 	border-bottom-right-radius:76px;
-	background-image:url(./curriculum_ismael/images/user_avatar_1.png);
+	background-image:url(curriculum_ismael/images/user_avatar_1.png);
 	background-size:cover;
 }
 .nombre { 
@@ -145,7 +145,7 @@
 	position:fixed;
 	left:11px;
 	top:230px;
-	background-image:url(./curriculum_ismael/images/logo_gmail_1.png);
+	background-image:url(curriculum_ismael/images/logo_gmail_1.png);
 	background-size:cover;
 }
 .logo_tel { 
@@ -158,7 +158,7 @@
 	border-top-right-radius:112px;
 	border-bottom-left-radius:112px;
 	border-bottom-right-radius:112px;
-	background-image:url(./curriculum_ismael/images/telefono_1.png);
+	background-image:url(curriculum_ismael/images/telefono_1.png);
 	background-size:cover;
 }
 .telf { 
